@@ -16,6 +16,7 @@ I'm a passionate aspiring software engineer aiming to master PHP and the Laravel
 - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 
 ### 📈 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niel22&show_icons=true&theme=dark)
