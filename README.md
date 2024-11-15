@@ -1,4 +1,4 @@
-![Header Image Placeholder](https://via.placeholder.com/1200x400?text=Your+Custom+Banner+Here)
+
 # Hi there, I'm James Daniel Boluwatife! 👋
 
 **Aspiring Software Engineer | PHP & Laravel Enthusiast**
