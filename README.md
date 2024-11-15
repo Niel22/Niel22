@@ -23,6 +23,11 @@ I'm a passionate aspiring software engineer aiming to master PHP and the Laravel
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niel22&show_icons=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Niel22&theme=dark)](https://git.io/streak-stats)
 ![Profile Views](https://komarev.com/ghpvc/?username=Niel22&color=blue&style=for-the-badge)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Niel22&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Niel22&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Niel22&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Visitor Count](https://komarev.com/ghpvc/?username=Niel22&color=blue&style=flat-square)
+
 
 ---
 
