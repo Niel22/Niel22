@@ -21,6 +21,7 @@ I'm a passionate aspiring software engineer aiming to master PHP and the Laravel
 ### 📈 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niel22&show_icons=true&theme=dark)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Niel22&theme=dark)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=Niel22&color=blue&style=for-the-badge)
 
 ---
 
