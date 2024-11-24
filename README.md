@@ -1,7 +1,7 @@
 ![PHP Lover](https://img.shields.io/badge/-PHP%20Lover-blue?style=flat-square)
-# Hi there, I'm James Daniel Boluwatife! 👋
+# Hi there, I'm James Daniel ! 👋
 
-**Aspiring Software Engineer | PHP & Laravel Enthusiast**
+**Tech Savvy | Aspiring Software Engineer | PHP & Laravel Enthusiast**
 
 I'm a passionate aspiring software engineer aiming to master PHP and the Laravel framework for backend web development. I love creating efficient solutions to real-world problems through coding, and I'm committed to honing my skills as a backend developer.
 
