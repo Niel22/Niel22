@@ -40,6 +40,7 @@ A platform for students and faculty to participate in opinion polls on campus is
 
 #### [**To-Do App**](https://github.com/Niel22/to-do-app.git)
 A simple task management app that allows users to create, edit, delete, monitor, and prioritize tasks. Helps users stay organized and on top of their to-do lists efficiently.
+![Home Page Screenshot](img/todoapp-dashboard.png)
 
 #### [**Product Expiry Alert Management System**](https://github.com/Niel22/Product-Expiry-Alert-System.git)
 An inventory management app that alerts users when products are nearing expiration. Ideal for businesses to manage stock, minimize waste, and keep track of product shelf life.
