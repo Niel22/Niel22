@@ -38,7 +38,7 @@ An app that connects users with nearby mechanics, helping drivers in emergencies
 #### [**Campus Opinion Poll Website**](https://github.com/Niel22/opinion_poll_app.git)
 A platform for students and faculty to participate in opinion polls on campus issues. Users can create, vote on, and view poll results in real-time, enhancing community engagement.
 
-#### [**To-Do App**](https://github.com/Niel22/mechanic-finder.git)
+#### [**To-Do App**](https://github.com/Niel22/to-do-app.git)
 A simple task management app that allows users to create, edit, delete, monitor, and prioritize tasks. Helps users stay organized and on top of their to-do lists efficiently.
 
 #### [**Product Expiry Alert Management System**](https://github.com/Niel22/Product-Expiry-Alert-System.git)
