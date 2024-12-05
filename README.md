@@ -10,7 +10,7 @@ I'm a passionate aspiring software engineer aiming to master PHP and the Laravel
 - Working with **Linux** for efficient server management
 
 ### 💼 Skills & Tools
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge) ![Livewire](https://img.shields.io/badge/-Livewire-4EAF23?logo=livewire&logoColor=white&style=for-the-badge) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+ ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge) ![Livewire](https://img.shields.io/badge/-Livewire-4EAF23?logo=livewire&logoColor=white&style=for-the-badge) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 
 ### 📈 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niel22&show_icons=true&theme=dark)
@@ -37,6 +37,7 @@ An app that connects users with nearby mechanics, helping drivers in emergencies
 
 #### [**Campus Opinion Poll Website**](https://github.com/Niel22/opinion_poll_app.git)
 A platform for students and faculty to participate in opinion polls on campus issues. Users can create, vote on, and view poll results in real-time, enhancing community engagement.
+![Home Page Screenshot](img/opinion-poll-page.png)
 
 #### [**To-Do App**](https://github.com/Niel22/to-do-app.git)
 A simple task management app that allows users to create, edit, delete, monitor, and prioritize tasks. Helps users stay organized and on top of their to-do lists efficiently.
@@ -54,6 +55,7 @@ A notification system for lecturers, reminding them of upcoming lectures. Featur
 
 ### 🔗 Connect with Me
 - **Twitter**: [@codeNovaNiel](https://x.com/codeNovaNiel)
+- **LinkedIn**: [novaniel](https://www.linkedin.com/in/novaniel)
 - **Email**: [niel2264@gmail.com](mailto:niel2264@gmail.com)
 
 ### 🎉 Fun Facts
