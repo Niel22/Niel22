@@ -27,6 +27,13 @@ I'm a passionate aspiring software engineer aiming to master PHP and the Laravel
 
 ### 🌟 Featured Projects
 
+#### [**Blog Platform**](https://github.com/Niel22/blog.git)
+A comprehensive web application that enables users to create, read, update, and delete blog posts. The platform includes:
+- User authentication for personalized content management.
+- A clean and responsive design for optimal user experience across devices.
+Built using HTML, CSS, JavaScript, Bootstrap, PHP (Laravel),  Livewire and MySQL, this platform is ideal for bloggers who value simplicity and efficiency.
+![Home Page Screenshot](img/blog-home.png)
+
 #### [**Product Showcasing Website for Shoe Making Company**](https://github.com/Niel22/shoe-website.git)
 A responsive web application designed to showcase products for a shoe-making company. Includes detailed product views, categories, and a smooth user experience to attract customers.
 ![Home Page Screenshot](img/shoe-website-homepage.png)
