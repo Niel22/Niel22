@@ -44,6 +44,7 @@ A simple task management app that allows users to create, edit, delete, monitor,
 
 #### [**Product Expiry Alert Management System**](https://github.com/Niel22/Product-Expiry-Alert-System.git)
 An inventory management app that alerts users when products are nearing expiration. Ideal for businesses to manage stock, minimize waste, and keep track of product shelf life.
+![Home Page Screenshot](img/productexpiryalert-admin-dashboard.png)
 
 #### [**Lecture Reminder System**](https://github.com/Niel22/Lecture-Reminder-System.git)
 A notification system for lecturers, reminding them of upcoming lectures. Features real-time reminders and scheduling to ensure punctuality and organized course delivery.
