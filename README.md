@@ -48,6 +48,7 @@ An inventory management app that alerts users when products are nearing expirati
 
 #### [**Lecture Reminder System**](https://github.com/Niel22/Lecture-Reminder-System.git)
 A notification system for lecturers, reminding them of upcoming lectures. Features real-time reminders and scheduling to ensure punctuality and organized course delivery.
+![Home Page Screenshot](img/lrs-dashboard.png)
 
 ---
 
