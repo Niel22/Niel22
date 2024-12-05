@@ -29,6 +29,7 @@ I'm a passionate aspiring software engineer aiming to master PHP and the Laravel
 
 #### [**Product Showcasing Website for Shoe Making Company**](https://github.com/Niel22/shoe-website.git)
 A responsive web application designed to showcase products for a shoe-making company. Includes detailed product views, categories, and a smooth user experience to attract customers.
+![Home Page Screenshot](img/homepage.png)
 
 #### [**Mechanic Finder Web App**](https://github.com/Niel22/mechanic-finder.git)
 An app that connects users with nearby mechanics, helping drivers in emergencies find reliable services quickly. Features search, location-based filtering, and a user-friendly interface.
