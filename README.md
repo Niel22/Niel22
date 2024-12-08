@@ -1,6 +1,4 @@
-#!/bin/bash
 
-echo "
 # Hi there, I'm James Daniel! 👋
 
 **Logical Thinker | Backend Developer | PHP Enthusiast**
@@ -53,4 +51,4 @@ I'm a crazy introvert who finds happiness in solitude and my laptop. When I'm no
 ---
 
 ### 🚀 **Happy Coding!**
-"
+
