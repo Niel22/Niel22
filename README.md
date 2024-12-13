@@ -1,7 +1,7 @@
 
 # Hi there, I'm James Daniel! 👋
 
-**Logical Thinker | Backend Developer | PHP Enthusiast** 
+**Logical Thinker | Backend Developer | Laravel Enthusiast** 
 
 I love solving complex problems and building efficient backend systems. While others may find joy in designing eye-catching interfaces, my heart beats for writing the logic that powers those designs. If it's about crafting APIs, server-side logic, or optimizing databases, count me in! 🎯
 
