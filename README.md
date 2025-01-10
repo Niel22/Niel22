@@ -10,7 +10,6 @@ I love solving complex problems and building efficient backend systems. While ot
 - Diving deeper into **Backend Development** with a focus on building robust APIs
 - Exploring advanced features of **Laravel**
 - Strengthening my skills in **Linux** for effective server management
-
 ---
 
 ### 🧑‍💻 **Technologies I Know**
