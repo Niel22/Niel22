@@ -1,4 +1,4 @@
-# Hi there, I'm James Daniel! 👋
+# Hi there, I'm James Daniel! 👋 
  
 **Logical Thinker | Backend Developer | Laravel Enthusiast**
 
