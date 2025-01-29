@@ -20,7 +20,7 @@ I’m always focused on delivering effective solutions that meet the needs of us
 [![trophy](https://github-profile-trophy.vercel.app/?username=Niel22&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Niel22&color=blue&style=flat-square)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+<img src="./img/read.png" width="100%">
 
 
 ### 🔗 Connect with Me
