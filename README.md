@@ -24,7 +24,8 @@ I’m always focused on delivering effective solutions that meet the needs of us
 
 
 ### 🔗 Connect with Me
-![@codeNovaNiel](https://x.com/codeNovaNiel) ![novaniel](https://www.linkedin.com/in/novaniel) ![niel2264@gmail.com](mailto:niel2264@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%40codeNovaNiel-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/codeNovaNiel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-novaniel-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/novaniel) [![Email](https://img.shields.io/badge/Email-niel2264%40gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:niel2264@gmail.com)
+
 
 ### 🎉 Fun Facts
 I love creating and solving problems. I'm a programmer...so, basically, *I have no life*! 😄
