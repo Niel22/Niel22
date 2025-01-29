@@ -4,7 +4,7 @@ I work well in team environments, collaborating closely with other developers to
 I’m always focused on delivering effective solutions that meet the needs of users, and I continuously aim to improve and optimize the systems I work on. Whether working independently or within a team, I am committed to making a positive impact through my technical skills and dedication.
 
 ### 🌱 Currently Learning
-- Backend Development with Nodejs and ExpressJS and also improving my efficiency with laravel
+- Backend Development with **Nodejs** and **ExpressJS** and also improving my efficiency with **laravel**
 - Working with **Linux** for efficient server management
 
 ### 💼 Skills & Tools
