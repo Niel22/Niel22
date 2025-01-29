@@ -3,14 +3,17 @@
 
 **Tech Enthusiast | Aspiring Software Engineer | PHP & Laravel Enthusiast**
 
-I'm a passionate aspiring software engineer aiming to master PHP and the Laravel framework for backend web development. I love creating efficient solutions to real-world problems through coding, and I'm committed to honing my skills as a backend developer.
+I am James Daniel, a backend developer from Lagos, Nigeria, with a strong focus on writing clean and efficient code. I specialize in backend technologies like PHP (Laravel), Node.js, Express, and MySQL, and I have a passion for building scalable web applications and APIs. I take pride in writing maintainable and well-structured code while ensuring performance and scalability.
+I work well in team environments, collaborating closely with other developers to deliver high-quality solutions. My experience with system design helps me approach complex problems methodically, ensuring the systems I build are robust and long-lasting. With expertise in both PHP and Node.js, I am versatile in delivering solutions using the best-suited technology stack for any project.
+I’m always focused on delivering effective solutions that meet the needs of users, and I continuously aim to improve and optimize the systems I work on. Whether working independently or within a team, I am committed to making a positive impact through my technical skills and dedication.
 
 ### 🌱 Currently Learning
 - Backend Development with **Laravel** and **MySQL**
 - Working with **Linux** for efficient server management
 
 ### 💼 Skills & Tools
- ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge) ![Livewire](https://img.shields.io/badge/-Livewire-4EAF23?logo=livewire&logoColor=white&style=for-the-badge) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+ ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)   ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge)   ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)   ![Livewire](https://img.shields.io/badge/-Livewire-4EAF23?logo=livewire&logoColor=white&style=for-the-badge)   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)   ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)   ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)  
+
 
 ### 📈 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niel22&show_icons=true&theme=dark)
@@ -23,47 +26,9 @@ I'm a passionate aspiring software engineer aiming to master PHP and the Laravel
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 
----
-
-### 🌟 Featured Projects
-
-#### [**Blog Platform**](https://github.com/Niel22/blog.git)
-A comprehensive web application that enables users to create, read, update, and delete blog posts. The platform includes:
-- User authentication for personalized content management.
-- A clean and responsive design for optimal user experience across devices.
-Built using HTML, CSS, JavaScript, Bootstrap, PHP (Laravel),  Livewire and MySQL, this platform is ideal for bloggers who value simplicity and efficiency.
-![Home Page Screenshot](img/blog-home.png)
-
-#### [**Product Showcasing Website for Shoe Making Company**](https://github.com/Niel22/shoe-website.git)
-A responsive web application designed to showcase products for a shoe-making company. Includes detailed product views, categories, and a smooth user experience to attract customers.
-![Home Page Screenshot](img/shoe-website-homepage.png)
-
-#### [**Mechanic Finder Web App**](https://github.com/Niel22/mechanic-finder.git)
-An app that connects users with nearby mechanics, helping drivers in emergencies find reliable services quickly. Features search, location-based filtering, and a user-friendly interface.
-![Home Page Screenshot](img/mechanic-home-page.png)
-
-#### [**Campus Opinion Poll Website**](https://github.com/Niel22/opinion_poll_app.git)
-A platform for students and faculty to participate in opinion polls on campus issues. Users can create, vote on, and view poll results in real-time, enhancing community engagement.
-![Home Page Screenshot](img/opinion-poll-page.png)
-
-#### [**To-Do App**](https://github.com/Niel22/to-do-app.git)
-A simple task management app that allows users to create, edit, delete, monitor, and prioritize tasks. Helps users stay organized and on top of their to-do lists efficiently.
-![Home Page Screenshot](img/todoapp-dashboard.png)
-
-#### [**Product Expiry Alert Management System**](https://github.com/Niel22/Product-Expiry-Alert-System.git)
-An inventory management app that alerts users when products are nearing expiration. Ideal for businesses to manage stock, minimize waste, and keep track of product shelf life.
-![Home Page Screenshot](img/productexpiryalert-admin-dashboard.png)
-
-#### [**Lecture Reminder System**](https://github.com/Niel22/Lecture-Reminder-System.git)
-A notification system for lecturers, reminding them of upcoming lectures. Features real-time reminders and scheduling to ensure punctuality and organized course delivery.
-![Home Page Screenshot](img/lrs-dashboard.png)
-
----
 
 ### 🔗 Connect with Me
-- **Twitter**: [@codeNovaNiel](https://x.com/codeNovaNiel)
-- **LinkedIn**: [novaniel](https://www.linkedin.com/in/novaniel)
-- **Email**: [niel2264@gmail.com](mailto:niel2264@gmail.com)
+![@codeNovaNiel](https://x.com/codeNovaNiel) ![novaniel](https://www.linkedin.com/in/novaniel) ![niel2264@gmail.com](mailto:niel2264@gmail.com)
 
 ### 🎉 Fun Facts
 I love creating and solving problems. I'm a programmer...so, basically, *I have no life*! 😄
