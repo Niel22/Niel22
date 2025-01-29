@@ -1,14 +1,10 @@
-![PHP Lover](https://img.shields.io/badge/-PHP%20Lover-blue?style=flat-square)
-# Hi there, I'm James Daniel ! 👋
-
-**Tech Enthusiast | Aspiring Software Engineer | PHP & Laravel Enthusiast**
 
 I am James Daniel, a backend developer from Lagos, Nigeria, with a strong focus on writing clean and efficient code. I specialize in backend technologies like PHP (Laravel), Node.js, Express, and MySQL, and I have a passion for building scalable web applications and APIs. I take pride in writing maintainable and well-structured code while ensuring performance and scalability.
 I work well in team environments, collaborating closely with other developers to deliver high-quality solutions. My experience with system design helps me approach complex problems methodically, ensuring the systems I build are robust and long-lasting. With expertise in both PHP and Node.js, I am versatile in delivering solutions using the best-suited technology stack for any project.
 I’m always focused on delivering effective solutions that meet the needs of users, and I continuously aim to improve and optimize the systems I work on. Whether working independently or within a team, I am committed to making a positive impact through my technical skills and dedication.
 
 ### 🌱 Currently Learning
-- Backend Development with **Laravel** and **MySQL**
+- Backend Development with Nodejs and ExpressJS and also improving my efficiency with laravel
 - Working with **Linux** for efficient server management
 
 ### 💼 Skills & Tools
