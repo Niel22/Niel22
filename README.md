@@ -3,6 +3,7 @@
 
 I specialize in backend technologies like **PHP (Laravel)**, **Node.js**, **Express**, and **MySQL**. My passion lies in building scalable web applications and APIs. I focus on writing **clean**, **maintainable**, and **efficient** code to ensure performance and scalability.  
 
+
 I thrive in **team environments**, collaborating closely with other developers to deliver **high-quality solutions**. With a strong background in **system design**, I approach complex problems methodically to build robust and long-lasting systems.  
 
 ### 🌟 What I Bring to the Table  
